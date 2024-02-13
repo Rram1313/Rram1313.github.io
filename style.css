@@ -1,4 +1,14 @@
+body{
+  background-color: black;
+  color: whitesmoke;
+}
 header{
   display: grid;
   grid-template-columns: 4fr 1fr;
+}
+figure img{
+  width: 100%;
+}
+a{
+  color: whitesmoke;
 }
